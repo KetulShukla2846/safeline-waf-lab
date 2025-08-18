@@ -53,7 +53,7 @@ Embed like this:
 - Linux + networking troubleshooting for labs
 
 ## 👤 Author
-Ketul — *Cybersecurity learner (eJPT prep)*  
+Ketul Shukla — *Cybersecurity learner (eJPT prep)*  
 **LinkedIn:** https://linkedin.com/in/ketul-shukla
 **GitHub:** https://github.com/KetulShukla2846
 
