@@ -43,4 +43,4 @@ sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048  -keyout /etc/ssl/dvwa/
 - Check WAF logs and create a **custom deny rule** for Kali IP
 - Optionally enable **HTTP flood defense** and observe behavior
 
-> For a deeper, step-by-step guide, see **docs/Safeline_WAF_Guide.pdf**.
+THANK YOU
