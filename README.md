@@ -20,7 +20,7 @@ VirtualBox, Ubuntu Server, Kali Linux, Apache, MySQL, PHP, DVWA, SafeLine WAF.
 - `images/04-waf-dashboard.png` — Overview dashboard.
 - `images/05-cert-import.png` — SSL cert import page.
 - `images/06-app-onboarding.png` — DVWA backend mapping (redact IP/host).
-- `07-sqli-blocked.png` — Block page / alert for SQLi.
+- `images/07-sqli-blocked.png` — Block page / alert for SQLi.
 - `images/08-attack-logs.png` — WAF logs showing detections.
 - `images/09-deny-rule.png` — Custom IP block result.
 - `images/10-http-flood-defense.png` — Flood defense/metrics.
