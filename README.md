@@ -35,17 +35,6 @@ Embed like this:
 - Start with **docs/IMAGES_GUIDE.md** to capture the right screenshots.
 - Optional: read **docs/SETUP.md** for a longer walkthrough (kept out of README to avoid bloat).
 
-## 📂 Repo Structure
-```
-.
-├─ README.md
-├─ images/                 # add your screenshots here
-├─ docs/
-│  ├─ IMAGES_GUIDE.md
-│  ├─ SETUP.md
-│  └─ Safeline_WAF_Guide.pdf  # reference guide
-└─ .gitignore
-```
 
 ## ✨ What I learned
 - WAF deployment + reverse proxy concepts
