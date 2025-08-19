@@ -41,7 +41,7 @@ Embed like this:
 - Linux + networking troubleshooting for labs
 
 ## 👤 Author
-Ketul Shukla — *Cybersecurity learner (eJPT prep)* [Reference from @The Social Dork]
+Ketul Shukla — *Cybersecurity learner (eJPT prep)* [Thanks for the help https://linkedin.com/in/roydensprofile]
 **LinkedIn:** https://linkedin.com/in/ketul-shukla
 **GitHub:** https://github.com/KetulShukla2846
 
